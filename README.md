@@ -39,6 +39,6 @@ Sizin için botumuza gerekli güncellemeleri arka planda yapıyoruz ki, Siz bot 
 # Kullanım
 Bot çok pratik yapıya sahiptir ve bu yapıda sizlere komutları daha kolay ve anlayışlı kullanmanızı sağlıyor. Yakında güzel güncellemeler ile ayarlamalı komutlar ve başka özellikler ile karşınızda olucağız.
 
-
+[![NSFW-Turkiye](https://discordbots.org/api/widget/447742781750771742.svg)](https://discordbots.org/bot/447742781750771742)
 
 
