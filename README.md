@@ -5,6 +5,10 @@ NSFW-Türkiye Botu Türkiyede tek gelişmiş discord sesli ve yazılı konuşma 
 # Komutlar
 NSFW-Türkiye Botunun kendine has komutları bulunmaktadır.
 
+**NSFW Komutları**
+
+**Prefix >**
+
 >4k = 4k Fotoğrafları Atar. 
 
 >amatör = Amatör Fotoğrafları Atar. 
@@ -18,6 +22,14 @@ NSFW-Türkiye Botunun kendine has komutları bulunmaktadır.
 >gif = Gif Fotoğrafları Atar. 
 
 >anal = Anal Fotoğrafları Atar.
+
+**Diğer Komutlar**
+
+>kanalbilgi = Yazdığınız Kanal Hakkında Bilgi Verir. 
+
+>botbilgi = Bot Hakkında Kısa Bilgi Verir. 
+
+>dil tr | en = Botun dilini değiştirirsiniz.
 
 # Yenilikler/Güncellemeler
 Güncellemelerin hepsi yerli yerinde yapılmaktadır.Yeni bir komut yaptığımızda direk botumuza ekleniyor.Ve `>yardım` Listesine ekleniyor.
